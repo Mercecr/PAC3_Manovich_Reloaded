@@ -20,7 +20,7 @@ La RA és una tecnologia clau que combina elements digitals amb el món físic e
 - **Modularitat:** Cada element digital es pot modificar o actualitzar de manera independent.  
 - **Automatització:** La RA ajusta automàticament l’escala i perspectiva.  
 - **Variabilitat:** Els usuaris adapten l’experiència a les seves necessitats.  
-- **Transcodificació:** Dades físiques, com els espais, es converteixen en representacions digitals.  
+- **Transcodificació:** Dades físiques, com els espais, es converteixen en representacions digitals.
 
 ---
 
@@ -37,11 +37,13 @@ La botiga IKEA física ha estat una icona del comerç de mobles, centrant-se en 
 
 ---
 
+![Realitat augmentada](https://i.blogs.es/6e7fd0/captura-de-pantalla-2022-06-27-a-las-10.07.06/1366_521.jpeg)
+
 ## La Hibridació: L'aplicació IKEA Place  
 L’aplicació IKEA Place combina elements digitals i físics gràcies a la RA. Aquesta eina permet als consumidors:  
 - Visualitzar mobles en el seu espai real en escala precisa.  
 - Modificar posicions i colors abans de fer la compra.  
-- Connectar directament amb el comerç electrònic d’IKEA.  
+- Connectar directament amb el comerç electrònic d’IKEA.
 
 ### Impacte cultural:  
 - Redueix incerteses en la compra gràcies a la visualització personalitzada.  
@@ -49,6 +51,11 @@ L’aplicació IKEA Place combina elements digitals i físics gràcies a la RA. 
 - Redefineix la confiança del consumidor en representacions digitals, accelerant l’adopció d’aquestes tecnologies.  
 
 ---
+
+## Referencias y Bibliografía
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- Muñoz-Justicia, Juan (2014): "Conocimiento Abierto y Tecnología".
+- McMillan, Robert (2012). "Lord of the Files: How GitHub Tamed Free Software (And More)".
 
 ## Llicència  
 Aquest projecte està publicat sota la llicència [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
